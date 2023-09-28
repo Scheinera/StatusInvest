@@ -1,25 +1,26 @@
 ,funds,NAME,MIN_MES,MAX_MES,MIN_52S,MAX_52S,VAL_12M,VAL_MES,TIPO,SEGMENTO
-0,BMLC11,BM BRASCAN LAJES CORPORATIVAS,"104,99","108,99","98,00","108,99","4,99","4,99",Híbrido,Híbrido
-1,BTCR11,BTG PACTUAL CRÉDITO IMOBILIÁRIO,"85,45","91,96","85,45","97,79","-6,67","-6,67",Títulos e Valores Mobiliários,Títulos e Valores Mobiliários
-2,EURO11,EUROPAR,"241,03","249,89","218,31","250,00","7,49","7,49",Renda,Logística
-3,FCFL11,CAMPUS FARIA LIMA,"115,50","117,00","98,92","125,97","-4,04","-4,04",Renda,Outros
-4,FIGS11,GENERAL SHOPPING ATIVO E RENDA,"61,08","64,79","45,57","65,12","11,85","11,85",Renda,Shoppings
-5,FIIB11,INDUSTRIAL DO BRASIL,"508,99","525,02","432,02","525,02","7,64","7,64",Híbrido,Híbrido
-6,HGBS11,CSHG BRASIL SHOPPING,"229,00","232,00","176,54","233,00","10,24","10,24",Renda,Shoppings
-7,HGCR11,CGHG RECEBÍVEIS IMOBILIÁRIOS,"105,77","107,75","98,30","107,89","3,21","3,21",Títulos e Valores Mobiliários,Títulos e Valores Mobiliários
-8,HGPO11,CSHG PRIME OFFICES FDO INV IMOB,"271,12","279,18","238,00","297,00","5,61","5,61",Renda,Lajes Corporativas
-9,HGRU11,CSHG RENDA URBANA,"131,30","141,40","114,30","141,40","5,85","5,85",Renda,Híbrido
-10,HSML11,HSI MALL FDO INV IMOB,"93,56","95,75","74,09","96,92","0,06","0,06",Renda,Shoppings
-11,HTMX11,HOTEL MAXINVEST,"137,68","148,33","99,01","148,33","24,48","24,48",Renda,Hotel
-12,JRDM11,SHOPPING JARDIM SUL,"85,90","85,90","76,56","87,93","0,47","0,47",Renda,Shoppings
-13,KNCR11,KINEA RENDIMENTOS IMOBILIÁRIOS,"98,16","100,63","93,00","102,40","-0,82","-0,82",Títulos e Valores Mobiliários,Títulos e Valores Mobiliários
-14,MALL11,MALLS BRASIL PLURAL,"114,96","117,68","97,02","119,69","8,29","8,29",Renda,Shoppings
-15,NEWL11,NEWPORT LOGÍSTICA,"103,98","107,00","91,88","115,00","4,17","4,17",Híbrido,Híbrido
-16,ONEF11,THE ONE,"198,00","204,00","162,00","204,00","15,78","15,78",Renda,Lajes Corporativas
-17,PLCR11,FDO INV. IMOB. PLURAL RECEBIVEIS,"90,30","93,15","82,22","93,15","8,33","8,33",Títulos e Valores Mobiliários,Títulos e Valores Mobiliários
-18,PVBI11,FDO. INV. IMOB. VBI PRIME PROPERTIES,"102,94","108,97","85,00","108,97","7,89","7,89",Renda,Lajes Corporativas
-19,RBHG11,RIO BRAVO CREDITO IMOB HIGH GRADE,"88,47","90,89","79,99","90,89","1,63","1,63",Títulos e Valores Mobiliários,Títulos e Valores Mobiliários
-20,TRXF11,TRX REAL ESTATE,"112,20","113,50","101,58","115,12","-0,94","-0,94",Renda,Híbrido
-21,VGIR11,VALORA RE III,"9,61","9,86","9,12","10,08","-3,60","-3,60",Títulos e Valores Mobiliários,Títulos e Valores Mobiliários
-22,VISC11,VINCI SHOPPING CENTERS,"117,80","125,33","100,35","125,33","8,89","8,89",Renda,Shoppings
-23,XPML11,XP MALLS,"109,90","114,66","93,96","114,66","5,73","5,73",Renda,Shoppings
+0,ARRI11,ÁTRIO REIT RECEBÍVEIS IMOBILIÁRIOS,"8,62","8,92","8,06","9,43","-0,78","-0,78",Títulos e Valores Mobiliários,Títulos e Valores Mobiliários
+1,BMLC11,BM BRASCAN LAJES CORPORATIVAS,"102,66","108,99","98,00","108,99","2,66","2,66",Híbrido,Híbrido
+2,BTCR11,BTG PACTUAL CRÉDITO IMOBILIÁRIO,"85,45","91,96","85,45","97,79","-7,24","-7,24",Títulos e Valores Mobiliários,Títulos e Valores Mobiliários
+3,EURO11,EUROPAR,"241,03","249,89","218,31","250,00","7,92","7,92",Renda,Logística
+4,FIGS11,GENERAL SHOPPING ATIVO E RENDA,"61,08","64,79","45,57","65,12","14,45","14,45",Renda,Shoppings
+5,FIIB11,INDUSTRIAL DO BRASIL,"508,99","525,02","432,02","525,02","9,32","9,32",Híbrido,Híbrido
+6,HGBS11,CSHG BRASIL SHOPPING,"229,00","232,35","176,54","233,00","11,26","11,26",Renda,Shoppings
+7,HGCR11,CGHG RECEBÍVEIS IMOBILIÁRIOS,"105,77","107,90","98,30","107,90","3,50","3,50",Títulos e Valores Mobiliários,Títulos e Valores Mobiliários
+8,HGPO11,CSHG PRIME OFFICES FDO INV IMOB,"271,12","279,18","238,00","297,00","7,24","7,24",Renda,Lajes Corporativas
+9,HGRU11,CSHG RENDA URBANA,"131,30","141,40","114,30","141,40","7,00","7,00",Renda,Híbrido
+10,HSML11,HSI MALL FDO INV IMOB,"93,27","95,75","74,09","96,92","0,95","0,95",Renda,Shoppings
+11,HTMX11,HOTEL MAXINVEST,"137,68","148,33","99,01","148,33","25,03","25,03",Renda,Hotel
+12,JRDM11,SHOPPING JARDIM SUL,"85,90","85,90","76,56","87,93","1,02","1,02",Renda,Shoppings
+13,KNCR11,KINEA RENDIMENTOS IMOBILIÁRIOS,"98,16","100,85","93,00","102,40","-1,38","-1,38",Títulos e Valores Mobiliários,Títulos e Valores Mobiliários
+14,MALL11,MALLS BRASIL PLURAL,"114,96","117,68","97,02","119,69","10,08","10,08",Renda,Shoppings
+15,MXRF11,MAXI RENDA,"10,76","11,12","9,72","11,12","6,81","6,81",Híbrido,Híbrido
+16,NEWL11,NEWPORT LOGÍSTICA,"103,98","107,60","91,88","115,00","6,12","6,12",Híbrido,Híbrido
+17,ONEF11,THE ONE,"198,00","204,00","162,00","204,00","16,05","16,05",Renda,Lajes Corporativas
+18,PLCR11,FDO INV. IMOB. PLURAL RECEBIVEIS,"90,30","93,15","82,22","93,15","7,11","7,11",Títulos e Valores Mobiliários,Títulos e Valores Mobiliários
+19,PVBI11,FDO. INV. IMOB. VBI PRIME PROPERTIES,"102,94","108,97","85,00","108,97","5,96","5,96",Renda,Lajes Corporativas
+20,RBHG11,RIO BRAVO CREDITO IMOB HIGH GRADE,"88,47","90,89","79,99","90,89","2,03","2,03",Títulos e Valores Mobiliários,Títulos e Valores Mobiliários
+21,TRXF11,TRX REAL ESTATE,"112,10","113,50","101,58","115,12","-1,45","-1,45",Renda,Híbrido
+22,VGIR11,VALORA RE III,"9,61","9,86","9,12","10,08","-3,49","-3,49",Títulos e Valores Mobiliários,Títulos e Valores Mobiliários
+23,VISC11,VINCI SHOPPING CENTERS,"117,80","125,33","100,35","125,33","8,17","8,17",Renda,Shoppings
+24,XPML11,XP MALLS,"109,89","114,66","93,96","114,66","6,07","6,07",Renda,Shoppings
